@@ -55,6 +55,7 @@
             <li class="active"><a href="index.php">About Us</a></li>
             <li class="active"><a href="index.php">Contact</a></li>
             <li class="active"><a href="login.php">Login</a></li>
+            <li class="active"><a href="payment.php">Payment</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
