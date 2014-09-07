@@ -23,56 +23,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="10" selection-start="1929" selection-end="1929" vertical-scroll-proportion="-31.25" vertical-offset="0" max-vertical-offset="3840">
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1500">
-              <folding>
-                <marker date="1410072004000" expanded="true" signature="1034:3047" placeholder="..." />
-                <marker date="1410072004000" expanded="true" signature="1118:1489" placeholder="..." />
-                <marker date="1410072004000" expanded="true" signature="1148:1489" placeholder="..." />
-                <marker date="1410072004000" expanded="true" signature="1184:1489" placeholder="..." />
-                <marker date="1410072004000" expanded="true" signature="1469:1712" placeholder="[...]" />
-                <marker date="1410072004000" expanded="true" signature="1548:1588" placeholder="{&quot;value&quot;: 50...}" />
-                <marker date="1410072004000" expanded="true" signature="1588:1689" placeholder="{&quot;value&quot;: 50...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libraries/hybridauth/examples/social_hub/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="2" selection-start="0" selection-end="2457" vertical-scroll-proportion="-4.375" vertical-offset="765" max-vertical-offset="2250">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="118" selection-end="283" vertical-scroll-proportion="-1.8" vertical-offset="60" max-vertical-offset="2100">
+            <state line="99" column="29" selection-start="4142" selection-end="4142" vertical-scroll-proportion="0.42725882" vertical-offset="1206" max-vertical-offset="3105">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#7030#7105#0" expanded="true" />
+                <element signature="e#7689#7782#0" expanded="true" />
+                <element signature="e#8186#8217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="2" selection-start="2298" selection-end="2298" vertical-scroll-proportion="-5.25" vertical-offset="834" max-vertical-offset="3135">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/profile.php">
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libraries/hybridauth/hybridauth/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="185" column="31" selection-start="9505" selection-end="9505" vertical-scroll-proportion="0.9739663" vertical-offset="2139" max-vertical-offset="3090">
+            <state line="48" column="137" selection-start="1376" selection-end="1376" vertical-scroll-proportion="-11.166667" vertical-offset="392" max-vertical-offset="1110">
               <folding />
             </state>
           </provider>
@@ -92,7 +71,7 @@
       <file leaf-file-name="payment.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/payment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="0" selection-start="2904" selection-end="3299" vertical-scroll-proportion="-23.458334" vertical-offset="832" max-vertical-offset="1485">
+            <state line="98" column="0" selection-start="3169" selection-end="3564" vertical-scroll-proportion="-23.458334" vertical-offset="907" max-vertical-offset="1560">
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -120,10 +99,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/payment.html" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/profile.php" />
+        <option value="$PROJECT_DIR$/libraries/hybridauth/hybridauth/config.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/login.php" />
       </list>
     </option>
   </component>
@@ -177,94 +160,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hybridauth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hybridauth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hybridauth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hybridauth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hybridauth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hybrid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hybridauth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -275,6 +170,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -359,21 +257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3600">
-          <folding>
-            <marker date="1410072004000" expanded="true" signature="1034:3047" placeholder="..." />
-            <marker date="1410072004000" expanded="true" signature="1118:1489" placeholder="..." />
-            <marker date="1410072004000" expanded="true" signature="1148:1489" placeholder="..." />
-            <marker date="1410072004000" expanded="true" signature="1184:1489" placeholder="..." />
-            <marker date="1410072004000" expanded="true" signature="1469:1712" placeholder="[...]" />
-            <marker date="1410072004000" expanded="true" signature="1548:1588" placeholder="{&quot;value&quot;: 50...}" />
-            <marker date="1410072004000" expanded="true" signature="1588:1689" placeholder="{&quot;value&quot;: 50...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/paymentconfirm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3600">
@@ -381,16 +264,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libraries/hybridauth/examples/social_hub/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="2" selection-start="0" selection-end="2457" vertical-scroll-proportion="-4.375" vertical-offset="765" max-vertical-offset="2250">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/payment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="0" selection-start="2904" selection-end="3299" vertical-scroll-proportion="-23.458334" vertical-offset="832" max-vertical-offset="1485">
+        <state line="98" column="0" selection-start="3169" selection-end="3564" vertical-scroll-proportion="-23.458334" vertical-offset="907" max-vertical-offset="1560">
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -411,37 +287,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="-0.29393467" vertical-offset="324" max-vertical-offset="990">
-          <folding>
-            <element signature="e#7#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="2" selection-start="92" selection-end="92" vertical-scroll-proportion="0.18018018" vertical-offset="0" max-vertical-offset="666">
           <folding>
-            <element signature="e#6#88#0" expanded="true" />
+            <element signature="e#6#88#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="10" selection-start="1929" selection-end="1929" vertical-scroll-proportion="-31.25" vertical-offset="0" max-vertical-offset="3840">
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="118" selection-end="283" vertical-scroll-proportion="-1.8" vertical-offset="60" max-vertical-offset="2100">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,8 +321,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/profile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="31" selection-start="9505" selection-end="9505" vertical-scroll-proportion="0.9739663" vertical-offset="2139" max-vertical-offset="3090">
+        <state line="64" column="2" selection-start="2298" selection-end="2298" vertical-scroll-proportion="-5.25" vertical-offset="834" max-vertical-offset="3135">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/hybridauth/hybridauth/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="137" selection-start="1376" selection-end="1376" vertical-scroll-proportion="-11.166667" vertical-offset="392" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="49" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.7667185" vertical-offset="272" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="4" selection-start="1933" selection-end="6938" vertical-scroll-proportion="5.7083335" vertical-offset="557" max-vertical-offset="1200">
+          <folding>
+            <element signature="tag#head#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="178" column="0" selection-start="7030" selection-end="7030" vertical-scroll-proportion="0.9188361" vertical-offset="2070" max-vertical-offset="2805">
+          <folding>
+            <element signature="e#139#190#0" expanded="true" />
+            <element signature="e#561#589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/hybridauth/examples/social_hub/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="2" selection-start="0" selection-end="2457" vertical-scroll-proportion="0.16079633" vertical-offset="765" max-vertical-offset="2250">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="0" selection-start="1581" selection-end="3744" vertical-scroll-proportion="0.45945945" vertical-offset="414" max-vertical-offset="1080">
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="29" selection-start="4142" selection-end="4142" vertical-scroll-proportion="0.42725882" vertical-offset="1206" max-vertical-offset="3105">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#7030#7105#0" expanded="true" />
+            <element signature="e#7689#7782#0" expanded="true" />
+            <element signature="e#8186#8217#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -68,8 +68,11 @@ if( $user_data ){
 	    <div class="container">
 	    	<div class="row">
 	    		<div class="col-lg-8 col-lg-offset-2 centered">
-	    			<h1>Bolt Theme</h1>
-	    			<h2>FREE BOOTSTRAP THEMES</h2>
+                    <?php
+                        if( $user_data->photoURL ){
+                            ?>  <h1>Welcome <?php echo $user_data->firstName; ?> </h1> <?php
+                        }
+                    ?>
                     <fieldset>
                         <legend>Profile information</legend>
                         <table width="100%">

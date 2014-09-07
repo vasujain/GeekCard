@@ -54,7 +54,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li class="active"><a href="#contact">About Us</a></li>
             <li class="active"><a href="#contact">Contact</a></li>
-            <li class="active"><a href="#contact">Login</a></li>
+            <li class="active"><a href="login.php">Login</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

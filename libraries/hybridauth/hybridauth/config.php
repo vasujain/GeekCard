@@ -35,7 +35,7 @@ return
 
 			"Facebook" => array ( 
 				"enabled" => true,
-				"keys"    => array ( "id" => "", "secret" => "" ), 
+				"keys"    => array ( "id" => "703588739706755", "secret" => "dce21cb9b184762c85b4ccad028afdd1" ),
 			),
 
 			"Twitter" => array ( 
@@ -46,7 +46,7 @@ return
 			// windows live
 			"Live" => array ( 
 				"enabled" => true,
-				"keys"    => array ( "id" => "", "secret" => "" ) 
+				"keys"    => array ( "id" => "cbk49pIttBWJ1DpGjw1hRpx5w", "secret" => "GDN0G0JXOP7sWuYbVy44t1b4MSPne9iE4HZtB5AJDDdxYbHla7" )
 			),
 
 			"MySpace" => array ( 
