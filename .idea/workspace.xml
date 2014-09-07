@@ -76,7 +76,7 @@
       <file leaf-file-name="payment.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/payment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="114" selection-end="114" vertical-scroll-proportion="0.22970903" vertical-offset="0" max-vertical-offset="855">
+            <state line="23" column="16" selection-start="548" selection-end="548" vertical-scroll-proportion="0.34984985" vertical-offset="112" max-vertical-offset="810">
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -528,7 +528,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/payment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="114" selection-end="114" vertical-scroll-proportion="0.22970903" vertical-offset="0" max-vertical-offset="855">
+        <state line="23" column="16" selection-start="548" selection-end="548" vertical-scroll-proportion="0.34984985" vertical-offset="112" max-vertical-offset="810">
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
