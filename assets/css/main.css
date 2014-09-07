@@ -161,9 +161,13 @@ a:after {
 	font-weight: 400;
 }
 
-	/* Social Login */
-#hello #hsocial {
+#hello #login_header {
+	color: #807e7e;
+	font-weight: 400;
+	text-align: center;
 }
+
+	/* Social Login */
 
 #hello #hsocial i {
 	font-size: 50px;
