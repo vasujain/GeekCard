@@ -20,7 +20,7 @@ include 'header.php';
         <!-- Payment Details -->
 
         <div class="row">
-            <div class="col-lg-4 col-lg-offset-4">
+            <div class="col-lg-6 col-lg-offset-3">
                 <form role="form">
                     <div class="form-group">
                         <label for="exampleInputEmail1">Amount</label>
