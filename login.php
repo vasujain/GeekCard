@@ -98,7 +98,6 @@ endif;
             </div><!-- /social -->
         </div>
 
-
         <!-- OR? -->
         <div class="row centered">
             <h2> OR </h2>
@@ -126,6 +125,10 @@ endif;
                     <button type="button" class="btn btn-info btn-lg btn-block">Submit</button>
                 </form>
             </div><!-- /col-lg-8 -->
+        </div>
+
+        <div class="row centered">
+            <h2>  </h2>
         </div>
 
     </div><!-- /row -->

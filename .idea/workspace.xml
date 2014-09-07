@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="34" selection-start="4057" selection-end="4057" vertical-scroll-proportion="-10.0" vertical-offset="1215" max-vertical-offset="3150">
+            <state line="130" column="17" selection-start="5363" selection-end="5363" vertical-scroll-proportion="0.87289435" vertical-offset="1380" max-vertical-offset="3195">
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -36,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="19" selection-start="393" selection-end="393" vertical-scroll-proportion="-0.058558557" vertical-offset="249" max-vertical-offset="915">
+            <state line="28" column="72" selection-start="736" selection-end="736" vertical-scroll-proportion="-4.0" vertical-offset="249" max-vertical-offset="915">
               <folding />
             </state>
           </provider>
@@ -114,9 +114,9 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/libraries/hybridauth/examples/social_hub/logoutUser.php" />
-        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/profile.php" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/login.php" />
       </list>
     </option>
   </component>
@@ -456,17 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="34" selection-start="4057" selection-end="4057" vertical-scroll-proportion="-10.0" vertical-offset="1215" max-vertical-offset="3150">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/profile.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="77" column="135" selection-start="2909" selection-end="2909" vertical-scroll-proportion="-9.166667" vertical-offset="935" max-vertical-offset="3150">
@@ -479,8 +468,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="19" selection-start="393" selection-end="393" vertical-scroll-proportion="-0.058558557" vertical-offset="249" max-vertical-offset="915">
+        <state line="28" column="72" selection-start="736" selection-end="736" vertical-scroll-proportion="-4.0" vertical-offset="249" max-vertical-offset="915">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="17" selection-start="5363" selection-end="5363" vertical-scroll-proportion="0.87289435" vertical-offset="1380" max-vertical-offset="3195">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
