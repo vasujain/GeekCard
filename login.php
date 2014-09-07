@@ -2,6 +2,10 @@
     include 'header.php';
 ?>
 <?php
+
+error_reporting(E_ALL);
+ini_set('display_errors', True);
+
 session_start();
 
 // change the following paths if necessary

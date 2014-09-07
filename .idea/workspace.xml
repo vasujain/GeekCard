@@ -74,7 +74,7 @@
       <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="137" column="13" selection-start="6115" selection-end="6115" vertical-scroll-proportion="0.72434914" vertical-offset="532" max-vertical-offset="1185">
+            <state line="5" column="10" selection-start="52" selection-end="52" vertical-scroll-proportion="0.114854515" vertical-offset="0" max-vertical-offset="1245">
               <folding>
                 <element signature="tag#div#0" expanded="false" />
                 <element signature="tag#div#1" expanded="false" />
@@ -354,9 +354,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="271" column="9" selection-start="6274" selection-end="6274" vertical-scroll-proportion="0.3452566" vertical-offset="3843" max-vertical-offset="15300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="13" selection-start="6115" selection-end="6115" vertical-scroll-proportion="0.72434914" vertical-offset="532" max-vertical-offset="1185">
+        <state line="5" column="10" selection-start="52" selection-end="52" vertical-scroll-proportion="0.114854515" vertical-offset="0" max-vertical-offset="1245">
           <folding>
             <element signature="tag#div#0" expanded="false" />
             <element signature="tag#div#1" expanded="false" />
