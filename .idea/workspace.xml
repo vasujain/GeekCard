@@ -52,11 +52,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paymentconfirm.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="paymentconfirm.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/paymentconfirm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3600">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3600">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="600" selection-end="600" vertical-scroll-proportion="0.45941806" vertical-offset="0" max-vertical-offset="3645">
+              <folding>
+                <marker date="1410065218000" expanded="true" signature="2645:3590" placeholder="..." />
+                <marker date="1410065218000" expanded="true" signature="2682:3024" placeholder="..." />
+                <marker date="1410065218000" expanded="true" signature="3415:3590" placeholder="..." />
+                <marker date="1410065218000" expanded="true" signature="3460:3590" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +86,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/payment.html" />
+        <option value="$PROJECT_DIR$/login.php" />
       </list>
     </option>
   </component>
@@ -132,6 +147,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -241,6 +261,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3600">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="600" selection-end="600" vertical-scroll-proportion="0.45941806" vertical-offset="0" max-vertical-offset="3645">
+          <folding>
+            <marker date="1410065218000" expanded="true" signature="2645:3590" placeholder="..." />
+            <marker date="1410065218000" expanded="true" signature="2682:3024" placeholder="..." />
+            <marker date="1410065218000" expanded="true" signature="3415:3590" placeholder="..." />
+            <marker date="1410065218000" expanded="true" signature="3460:3590" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
