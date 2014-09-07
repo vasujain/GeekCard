@@ -141,8 +141,9 @@ a:after {
 
 #hello {
 	width: 100%;
-	padding-top: 250px;
-	padding-bottom: 250px;
+	height: 100%;
+	padding-top: 150px;
+	padding-bottom: 150px;
 }
 
 #hello .row {
@@ -153,14 +154,30 @@ a:after {
 	padding-top: 20px;
 	width: 100%;
 	opacity: 0.9;
-
 }
 
 #hello h2 {
-	color: #c0c0c0;
+	color: #807e7e;
 	font-weight: 400;
-
 }
+
+	/* Social Login */
+#hello #hsocial {
+}
+
+#hello #hsocial i {
+	font-size: 50px;
+	color: #74cfae;
+}
+
+#hello #hsocial .col-md-3:hover {
+	background-color: #f5f5f5;
+}
+
+#hello #hsocial .col-md-4 {
+	padding:20px;
+}
+
 
 /* Green */
 #green {
