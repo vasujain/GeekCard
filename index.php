@@ -16,19 +16,19 @@
                     <style>
                         @media only screen and (max-width: 320px) {
                             /* Small screen, non-retina */
-                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png"); width: 20%; height: 20% }
+                            #geekLogo {  content:url("assets/logos/GeekCardLogo1.png"); width: 20%; height: 20% }
                         }
                         @media only screen and (min-width: 321px) and (max-width: 538px) {
                             /* Medium screen, non-retina */
-                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png");width: 40%; height: 40% }
+                            #geekLogo { content: url("assets/logos/GeekCardLogo1.png");width: 40%; height: 40% }
                         }
                         @media only screen and (min-width: 539px) and (max-width: 768px) {
                             /* Medium screen, non-retina */
-                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png");width: 60%; height: 60% }
+                            #geekLogo { content: url("assets/logos/GeekCardLogo1.png");width: 60%; height: 60% }
                         }
                         @media only screen and (min-width: 769px) {
                             /* Medium screen, non-retina */
-                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png");width: 100%; height: 100% }
+                            #geekLogo { content: url("assets/logos/GeekCardLogo1.png");width: 80%; height: 80% }
                         }
                     </style>
                     <img id="geekLogo">
