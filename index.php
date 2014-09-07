@@ -13,7 +13,25 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 centered">
-                    <img src="assets/logos/GeekCardLogo1.png" alt="">
+                    <style>
+                        @media only screen and (max-width: 320px) {
+                            /* Small screen, non-retina */
+                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png"); width: 20%; height: 20% }
+                        }
+                        @media only screen and (min-width: 321px) and (max-width: 538px) {
+                            /* Medium screen, non-retina */
+                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png");width: 40%; height: 40% }
+                        }
+                        @media only screen and (min-width: 539px) and (max-width: 768px) {
+                            /* Medium screen, non-retina */
+                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png");width: 60%; height: 60% }
+                        }
+                        @media only screen and (min-width: 769px) {
+                            /* Medium screen, non-retina */
+                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png");width: 80%; height: 80% }
+                        }
+                    </style>
+                    <img id="geekLogo" src="assets/logos/GeekCardLogo1.png" alt="">
                     <h2>DISCOVER . CONNECT . COLLABORATE</h2>
                 </div><!-- /col-lg-8 -->
             </div><!-- /row -->
