@@ -31,7 +31,7 @@
                             #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png");width: 80%; height: 80% }
                         }
                     </style>
-                    <img id="geekLogo" src="assets/logos/GeekCardLogo1.png" alt="">
+                    <img id="geekLogo">
                     <h2>DISCOVER . CONNECT . COLLABORATE</h2>
                 </div><!-- /col-lg-8 -->
             </div><!-- /row -->
