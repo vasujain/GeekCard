@@ -66,34 +66,21 @@ endif;
 ?>
 
 <div id="hello">
-	    <div class="container">
-	    	<div class="row">
-	    		<div class="col-lg-8 col-lg-offset-2 centered">
-	    			<h1>Bolt Theme</h1>
-	    			<h2>FREE BOOTSTRAP THEMES</h2>
-	    		</div><!-- /col-lg-8 -->
-	    	</div><!-- /row -->
-	    </div> <!-- /container -->
-	</div><!-- /hello -->
-
-<div id="hello">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 centered">
-
-
                 <table border="0" cellpadding="2" cellspacing="2">
                     <tr>
                         <td align="left" valign="top">
                             <fieldset>
                                 <legend>Sign-in with one of these providers</legend>
-                                &nbsp;&nbsp;<a href="?provider=Google">Sign-in with Google</a><br />
-                                &nbsp;&nbsp;<a href="?provider=Yahoo">Sign-in with Yahoo</a><br />
-                                &nbsp;&nbsp;<a href="?provider=Facebook">Sign-in with Facebook</a><br />
-                                &nbsp;&nbsp;<a href="?provider=Twitter">Sign-in with Twitter</a><br />
-                                &nbsp;&nbsp;<a href="?provider=MySpace">Sign-in with MySpace</a><br />
-                                &nbsp;&nbsp;<a href="?provider=Live">Sign-in with Windows Live</a><br />
-                                &nbsp;&nbsp;<a href="?provider=LinkedIn">Sign-in with LinkedIn</a><br />
+                                &nbsp;&nbsp;<a href="login.php?provider=Google">Sign-in with Google</a><br />
+                                &nbsp;&nbsp;<a href="login.php?provider=Yahoo">Sign-in with Yahoo</a><br />
+                                &nbsp;&nbsp;<a href="login.php?provider=Facebook">Sign-in with Facebook</a><br />
+                                &nbsp;&nbsp;<a href="login.php?provider=Twitter">Sign-in with Twitter</a><br />
+                                &nbsp;&nbsp;<a href="login.php?provider=MySpace">Sign-in with MySpace</a><br />
+                                &nbsp;&nbsp;<a href="login.php?provider=Live">Sign-in with Windows Live</a><br />
+                                &nbsp;&nbsp;<a href="login.php?provider=LinkedIn">Sign-in with LinkedIn</a><br />
                                 &nbsp;&nbsp;<a href="?provider=Foursquare">Sign-in with Foursquare</a><br />
                                 &nbsp;&nbsp;<a href="?provider=AOL">Sign-in with AOL</a><br />
                             </fieldset>
