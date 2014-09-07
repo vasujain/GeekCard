@@ -17,7 +17,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Bolt - Free Bootstrap 3 Theme</title>
+    <title>GeekCard</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
