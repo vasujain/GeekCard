@@ -17,7 +17,22 @@ include 'header.php';
             <h2>Select Payment Method</h2>
         </div>
 
-        <!-- Social  Logins -->
+        <!-- Payment Details -->
+
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <form role="form">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Amount</label>
+                        <input type="number" class="form-control" id="exampleInputEmail1" placeholder="120">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Currency</label>
+                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="USD" readonly>
+                    </div>
+                </form>
+            </div><!-- /col-lg-8 -->
+        </div>
 
         <div class="row centered" style="padding-bottom:20px;">
             <div id="hsocial" class="col-lg-8 col-lg-offset-2">
