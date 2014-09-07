@@ -98,6 +98,10 @@ a:after {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	color: #ffffff;
 	background-color: #74cfae;
+	height: 50px;
+	width: 100px;
+	text-align: center;
+	margin-right: 10px;
 }
 
 .navbar-brand {
@@ -128,21 +132,34 @@ a:after {
 
 /* hello */
 #hello {
+	background: url('assets/img/17.png') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#hello {
 	width: 100%;
 	padding-top: 250px;
 	padding-bottom: 250px;
 }
 
-#hello h1 {
-	font-size: 90px;
-	font-weight: 700;
-	letter-spacing: 3px;
-	color: #74cfae;
+#hello .row {
+	position: static;
+	background: center;
+	right: 200px;
+	background-color: white;
+	padding-top: 20px;
+	width: 100%;
+	opacity: 0.9;
+
 }
 
 #hello h2 {
 	color: #c0c0c0;
 	font-weight: 400;
+
 }
 
 /* Green */
