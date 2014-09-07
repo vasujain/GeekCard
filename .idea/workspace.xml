@@ -66,8 +66,10 @@
       <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="6" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.9540582" vertical-offset="1507" max-vertical-offset="3375">
-              <folding />
+            <state line="151" column="27" selection-start="5622" selection-end="5622" vertical-scroll-proportion="0.26493108" vertical-offset="1507" max-vertical-offset="3000">
+              <folding>
+                <element signature="e#3239#5436#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -369,8 +371,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="6" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.9540582" vertical-offset="1507" max-vertical-offset="3375">
-          <folding />
+        <state line="151" column="27" selection-start="5622" selection-end="5622" vertical-scroll-proportion="0.26493108" vertical-offset="1507" max-vertical-offset="3000">
+          <folding>
+            <element signature="e#3239#5436#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
