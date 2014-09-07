@@ -35,10 +35,10 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="38" selection-start="1563" selection-end="1563" vertical-scroll-proportion="0.41041347" vertical-offset="227" max-vertical-offset="3075">
+            <state line="30" column="119" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.34150076" vertical-offset="227" max-vertical-offset="3075">
               <folding>
                 <element signature="e#139#190#0" expanded="true" />
-                <element signature="e#1738#1766#0" expanded="true" />
+                <element signature="e#1740#1768#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -503,10 +503,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="38" selection-start="1563" selection-end="1563" vertical-scroll-proportion="0.41041347" vertical-offset="227" max-vertical-offset="3075">
+        <state line="30" column="119" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.34150076" vertical-offset="227" max-vertical-offset="3075">
           <folding>
             <element signature="e#139#190#0" expanded="true" />
-            <element signature="e#1738#1766#0" expanded="true" />
+            <element signature="e#1740#1768#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -28,7 +28,7 @@
                         }
                         @media only screen and (min-width: 769px) {
                             /* Medium screen, non-retina */
-                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png");width: 80%; height: 80% }
+                            #geekLogo { background-image: url("assets/logos/GeekCardLogo1.png");width: 100%; height: 100% }
                         }
                     </style>
                     <img id="geekLogo">
