@@ -64,8 +64,8 @@ catch( Exception $e ){
 if( $user_data ){
 ?>
 
-<div id="hello">
-	    <div class="container">
+<div id="hello" style="padding-top: 10px !important;">
+    <div class="container">
 	    	<div class="row">
 	    		<div class="col-lg-8 col-lg-offset-2 centered">
                     <?php
@@ -75,6 +75,7 @@ if( $user_data ){
                     ?>
                     <fieldset>
                         <legend>Profile information</legend>
+                        <h4><a href="libraries/hybridauth/examples/social_hub/logout.php?provider=$_GET["provider"]">Logout </a></h4>
                         <table width="100%">
                             <tr>
                                 <td width="150" valign="top" align="center">
@@ -86,7 +87,7 @@ if( $user_data ){
                                     }
                                     else{
                                         ?>
-                                        <img src="public/avatar.png" title="<?php echo $user_data->displayName; ?>" border="0" >
+                                        <img src="assets/img/avatar.png" title="<?php echo $user_data->displayName; ?>" border="0" >
                                     <?php
                                     }
                                     ?>

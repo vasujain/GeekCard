@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="184" column="25" selection-start="8402" selection-end="8402" vertical-scroll-proportion="0.51914245" vertical-offset="2421" max-vertical-offset="3105">
+            <state line="178" column="0" selection-start="8143" selection-end="8143" vertical-scroll-proportion="-10.375" vertical-offset="2421" max-vertical-offset="3105">
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -36,11 +36,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="profile.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/profile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="2" selection-start="2298" selection-end="2298" vertical-scroll-proportion="-5.25" vertical-offset="834" max-vertical-offset="3135">
-              <folding />
+            <state line="67" column="4" selection-start="2359" selection-end="2359" vertical-scroll-proportion="0.5945946" vertical-offset="609" max-vertical-offset="1275">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="tag#div#0;tag#div#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,7 +51,7 @@
       <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libraries/hybridauth/hybridauth/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="137" selection-start="1376" selection-end="1376" vertical-scroll-proportion="-11.166667" vertical-offset="392" max-vertical-offset="1110">
+            <state line="37" column="109" selection-start="1032" selection-end="1064" vertical-scroll-proportion="-7.4166665" vertical-offset="317" max-vertical-offset="1110">
               <folding />
             </state>
           </provider>
@@ -57,7 +60,7 @@
       <file leaf-file-name="profile.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libraries/hybridauth/examples/social_hub/profile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="8" selection-start="2577" selection-end="6891" vertical-scroll-proportion="-10.875" vertical-offset="789" max-vertical-offset="1455">
+            <state line="70" column="18" selection-start="2587" selection-end="2587" vertical-scroll-proportion="-10.875" vertical-offset="789" max-vertical-offset="1455">
               <folding>
                 <element signature="tag#tr#0;tag#table#0;tag#fieldset#0;tag#td#0;tag#tr#0;tag#table#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -97,13 +100,13 @@
       <list>
         <option value="$PROJECT_DIR$/payment.html" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/profile.php" />
         <option value="$PROJECT_DIR$/libraries/hybridauth/hybridauth/config.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/profile.php" />
       </list>
     </option>
   </component>
@@ -167,6 +170,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -307,29 +311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libraries/hybridauth/examples/social_hub/profile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="8" selection-start="2577" selection-end="6891" vertical-scroll-proportion="-10.875" vertical-offset="789" max-vertical-offset="1455">
-          <folding>
-            <element signature="tag#tr#0;tag#table#0;tag#fieldset#0;tag#td#0;tag#tr#0;tag#table#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="2" selection-start="2298" selection-end="2298" vertical-scroll-proportion="-5.25" vertical-offset="834" max-vertical-offset="3135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libraries/hybridauth/hybridauth/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="137" selection-start="1376" selection-end="1376" vertical-scroll-proportion="-11.166667" vertical-offset="392" max-vertical-offset="1110">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="49" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.7667185" vertical-offset="272" max-vertical-offset="915">
@@ -381,11 +362,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="184" column="25" selection-start="8402" selection-end="8402" vertical-scroll-proportion="0.51914245" vertical-offset="2421" max-vertical-offset="3105">
+        <state line="178" column="0" selection-start="8143" selection-end="8143" vertical-scroll-proportion="-10.375" vertical-offset="2421" max-vertical-offset="3105">
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/hybridauth/hybridauth/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="109" selection-start="1032" selection-end="1064" vertical-scroll-proportion="-7.4166665" vertical-offset="317" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/hybridauth/examples/social_hub/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="18" selection-start="2587" selection-end="2587" vertical-scroll-proportion="-10.875" vertical-offset="789" max-vertical-offset="1455">
+          <folding>
+            <element signature="tag#tr#0;tag#table#0;tag#fieldset#0;tag#td#0;tag#tr#0;tag#table#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/hybridauth/examples/social_hub/public/avatar.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="4" selection-start="2359" selection-end="2359" vertical-scroll-proportion="0.5945946" vertical-offset="609" max-vertical-offset="1275">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#0" expanded="false" />
           </folding>
         </state>
       </provider>
