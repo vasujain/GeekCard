@@ -43,8 +43,13 @@
       <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3600">
-              <folding />
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1500">
+              <folding>
+                <marker date="1410072004000" expanded="true" signature="1184:1489" placeholder="..." />
+                <marker date="1410072004000" expanded="true" signature="1469:1712" placeholder="[...]" />
+                <marker date="1410072004000" expanded="true" signature="1548:1588" placeholder="{&quot;value&quot;: 50...}" />
+                <marker date="1410072004000" expanded="true" signature="1588:1689" placeholder="{&quot;value&quot;: 50...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,7 +66,7 @@
       <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="226" column="5" selection-start="7736" selection-end="7736" vertical-scroll-proportion="0.75803983" vertical-offset="2895" max-vertical-offset="3750">
+            <state line="220" column="0" selection-start="7718" selection-end="7718" vertical-scroll-proportion="0.7932619" vertical-offset="2782" max-vertical-offset="3705">
               <folding />
             </state>
           </provider>
@@ -339,7 +344,12 @@
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3600">
-          <folding />
+          <folding>
+            <marker date="1410072004000" expanded="true" signature="1184:1489" placeholder="..." />
+            <marker date="1410072004000" expanded="true" signature="1469:1712" placeholder="[...]" />
+            <marker date="1410072004000" expanded="true" signature="1548:1588" placeholder="{&quot;value&quot;: 50...}" />
+            <marker date="1410072004000" expanded="true" signature="1588:1689" placeholder="{&quot;value&quot;: 50...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -359,7 +369,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="226" column="5" selection-start="7736" selection-end="7736" vertical-scroll-proportion="0.75803983" vertical-offset="2895" max-vertical-offset="3750">
+        <state line="220" column="0" selection-start="7718" selection-end="7718" vertical-scroll-proportion="0.7932619" vertical-offset="2782" max-vertical-offset="3735">
           <folding />
         </state>
       </provider>

@@ -218,9 +218,6 @@ catch( Exception $e ){
 	</td>
 	</tr>
 </table>
-</html>
-
-
 
 
 
