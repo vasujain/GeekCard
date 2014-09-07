@@ -9,8 +9,8 @@ ini_set('display_errors', True);
 session_start();
 
 // change the following paths if necessary
-$config = dirname(__FILE__) . '/../../hybridauth/config.php';
-require_once( "../../hybridauth/Hybrid/Auth.php" );
+$config = 'libraries/hybridauth/hybridauth/config.php';
+require_once( "libraries/hybridauth/hybridauth/Hybrid/Auth.php" );
 
 // check for erros and whatnot
 $error = "";
