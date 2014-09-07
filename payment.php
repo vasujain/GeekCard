@@ -34,6 +34,9 @@ include 'header.php';
             </div><!-- /col-lg-8 -->
         </div>
 
+        <div class="row centered">
+            <h2>  </h2>
+        </div>
         <!-- https://www.simplify.com/commerce/app#/payment -->
         <div class="row centered" style="padding-bottom:20px;">
             <div id="hsocial" class="col-lg-8 col-lg-offset-2">
@@ -46,10 +49,10 @@ include 'header.php';
                     <a href="paymentconfirm.php?mode=BitPay"><button type="button" class="btn btn-theme btn-lg">BitPay</button></a>
                 </div>
                 <div class="col-md-3">
-                    <a href="paymentconfirm.php?mode=Others"> <button type="button" class="btn btn-theme btn-lg">Others</button></a>
+                    <a href="paymentconfirm.php?mode=PayPal"> <button type="button" class="btn btn-theme btn-lg">PayPal</button></a>
                 </div>
                 <div class="col-md-3">
-                    <a href="paymentconfirm.php?mode=PayPal"> <button type="button" class="btn btn-theme btn-lg">PayPal</button></a>
+                    <a href="paymentconfirm.php?mode=Others"> <button type="button" class="btn btn-theme btn-lg">Others</button></a>
                 </div>
             </div><!-- /social -->
         </div>
