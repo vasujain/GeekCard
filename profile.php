@@ -75,7 +75,7 @@ if( $user_data ){
                     ?>
                     <fieldset>
                         <legend>Profile information</legend>
-                        <h4><a href="libraries/hybridauth/examples/social_hub/logout.php?provider=$_GET["provider"]">Logout </a></h4>
+                        <h4><a href="libraries/hybridauth/examples/social_hub/logoutUser.php?provider=$_GET["provider"]">Logout </a></h4>
                         <table width="100%">
                             <tr>
                                 <td width="150" valign="top" align="center">

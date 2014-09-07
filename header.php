@@ -48,12 +48,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#"><img src="assets/logos/GeekCardLogo.png" alt=""></a>
+          <a class="navbar-brand" href="index.php"><img src="assets/logos/GeekCardLogo.png" alt=""></a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="#contact">About Us</a></li>
-            <li class="active"><a href="#contact">Contact</a></li>
+            <li class="active"><a href="index.php">About Us</a></li>
+            <li class="active"><a href="index.php">Contact</a></li>
             <li class="active"><a href="login.php">Login</a></li>
           </ul>
         </div><!--/.nav-collapse -->
