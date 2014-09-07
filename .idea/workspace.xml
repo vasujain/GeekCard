@@ -64,12 +64,12 @@
       <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="4" selection-start="10" selection-end="10" vertical-scroll-proportion="0.022970904" vertical-offset="0" max-vertical-offset="3645">
+            <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.022970904" vertical-offset="0" max-vertical-offset="3645">
               <folding>
-                <marker date="1410070304000" expanded="true" signature="2649:3594" placeholder="..." />
-                <marker date="1410070304000" expanded="true" signature="2686:3028" placeholder="..." />
-                <marker date="1410070304000" expanded="true" signature="3419:3594" placeholder="..." />
-                <marker date="1410070304000" expanded="true" signature="3464:3594" placeholder="..." />
+                <marker date="1410070720000" expanded="true" signature="2650:3595" placeholder="..." />
+                <marker date="1410070720000" expanded="true" signature="2687:3029" placeholder="..." />
+                <marker date="1410070720000" expanded="true" signature="3420:3595" placeholder="..." />
+                <marker date="1410070720000" expanded="true" signature="3465:3595" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -332,12 +332,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="10" selection-end="10" vertical-scroll-proportion="0.022970904" vertical-offset="0" max-vertical-offset="3645">
+        <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.022970904" vertical-offset="0" max-vertical-offset="3645">
           <folding>
-            <marker date="1410070304000" expanded="true" signature="2649:3594" placeholder="..." />
-            <marker date="1410070304000" expanded="true" signature="2686:3028" placeholder="..." />
-            <marker date="1410070304000" expanded="true" signature="3419:3594" placeholder="..." />
-            <marker date="1410070304000" expanded="true" signature="3464:3594" placeholder="..." />
+            <marker date="1410070720000" expanded="true" signature="2650:3595" placeholder="..." />
+            <marker date="1410070720000" expanded="true" signature="2687:3029" placeholder="..." />
+            <marker date="1410070720000" expanded="true" signature="3420:3595" placeholder="..." />
+            <marker date="1410070720000" expanded="true" signature="3465:3595" placeholder="..." />
           </folding>
         </state>
       </provider>
