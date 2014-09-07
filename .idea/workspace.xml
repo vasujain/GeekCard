@@ -74,30 +74,10 @@
       <file leaf-file-name="payment.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/payment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="106" selection-start="736" selection-end="739" vertical-scroll-proportion="0.16744186" vertical-offset="318" max-vertical-offset="1035">
+            <state line="22" column="48" selection-start="479" selection-end="479" vertical-scroll-proportion="0.3372093" vertical-offset="185" max-vertical-offset="1095">
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web-forms.rnc" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/web-forms.rnc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="30" selection-start="683" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="8940">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paymentconfirm.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/paymentconfirm.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="75" selection-start="358" selection-end="358" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="540">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -515,15 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paymentconfirm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="75" selection-start="358" selection-end="358" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="540">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="128" column="0" selection-start="4181" selection-end="5310" vertical-scroll-proportion="-16.0" vertical-offset="1536" max-vertical-offset="2205">
@@ -533,14 +504,23 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="30" selection-start="683" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="8940">
+        <state line="25" column="30" selection-start="683" selection-end="691" vertical-scroll-proportion="0.5969163" vertical-offset="104" max-vertical-offset="8940">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentconfirm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="14" selection-start="490" selection-end="490" vertical-scroll-proportion="0.47674417" vertical-offset="110" max-vertical-offset="540">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/payment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="106" selection-start="736" selection-end="739" vertical-scroll-proportion="0.16744186" vertical-offset="318" max-vertical-offset="1035">
+        <state line="22" column="48" selection-start="479" selection-end="479" vertical-scroll-proportion="0.3372093" vertical-offset="185" max-vertical-offset="1095">
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />

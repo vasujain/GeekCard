@@ -20,7 +20,7 @@ include 'header.php';
         <!-- Payment Details -->
 
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+            <div class="col-lg-4 col-lg-offset-4">
                 <form role="form">
                     <div class="form-group">
                         <label for="exampleInputEmail1">Amount</label>
@@ -34,18 +34,22 @@ include 'header.php';
             </div><!-- /col-lg-8 -->
         </div>
 
+        <!-- https://www.simplify.com/commerce/app#/payment -->
         <div class="row centered" style="padding-bottom:20px;">
             <div id="hsocial" class="col-lg-8 col-lg-offset-2">
-                <div class="col-md-4">
-                    <a href="http://windowsvj.com/@ps/wth/modules/payment/index.php?amount=120&currency=USD">
+                <div class="col-md-3">
+                    <a href="http://windowsvj.com/@ps/wth/modules/payment/index.php?amount=50&currency=USD">
                         <button type="button" class="btn btn-theme btn-lg">MasterCard</button>
                     </a>
                 </div>
-                <div class="col-md-4">
-                    <a href="paymentconfirm.php?mode=bitpay"><button type="button" class="btn btn-theme btn-lg">BitPay</button></a>
+                <div class="col-md-3">
+                    <a href="paymentconfirm.php?mode=BitPay"><button type="button" class="btn btn-theme btn-lg">BitPay</button></a>
                 </div>
-                <div class="col-md-4">
-                    <a href="paymentconfirm.php?mode=others"> <button type="button" class="btn btn-theme btn-lg">Others</button></a>
+                <div class="col-md-3">
+                    <a href="paymentconfirm.php?mode=Others"> <button type="button" class="btn btn-theme btn-lg">Others</button></a>
+                </div>
+                <div class="col-md-3">
+                    <a href="paymentconfirm.php?mode=PayPal"> <button type="button" class="btn btn-theme btn-lg">PayPal</button></a>
                 </div>
             </div><!-- /social -->
         </div>
