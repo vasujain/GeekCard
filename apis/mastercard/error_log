@@ -1,0 +1,24 @@
+[07-Jun-2014 11:21:18 UTC] PHP Fatal error:  Uncaught exception 'Simplify_BadRequestException' with message 'Request data is invalid' in /home/windows1/public_html/@ps/wth/lib/Simplify/Http.php:154
+Stack trace:
+#0 /home/windows1/public_html/@ps/wth/lib/Simplify/PaymentsApi.php(215): Simplify_HTTP->apiRequest('https://sandbox...', 'POST', Object(Simplify_Authentication), '{"amount":"1000...')
+#1 /home/windows1/public_html/@ps/wth/lib/Simplify/PaymentsApi.php(51): Simplify_PaymentsApi->execute('create', Object(Simplify_Payment), Object(Simplify_Authentication))
+#2 /home/windows1/public_html/@ps/wth/lib/Simplify/Payment.php(64): Simplify_PaymentsApi::createObject(Object(Simplify_Payment), Object(Simplify_Authentication))
+#3 /home/windows1/public_html/@ps/wth/index.php(21): Simplify_Payment::createPayment(Array)
+#4 {main}
+  thrown in /home/windows1/public_html/@ps/wth/lib/Simplify/Http.php on line 154
+[07-Jun-2014 11:23:43 UTC] PHP Fatal error:  Uncaught exception 'Simplify_BadRequestException' with message 'Request data is invalid' in /home/windows1/public_html/@ps/wth/lib/Simplify/Http.php:154
+Stack trace:
+#0 /home/windows1/public_html/@ps/wth/lib/Simplify/PaymentsApi.php(215): Simplify_HTTP->apiRequest('https://sandbox...', 'POST', Object(Simplify_Authentication), '{"amount":"1000...')
+#1 /home/windows1/public_html/@ps/wth/lib/Simplify/PaymentsApi.php(51): Simplify_PaymentsApi->execute('create', Object(Simplify_Payment), Object(Simplify_Authentication))
+#2 /home/windows1/public_html/@ps/wth/lib/Simplify/Payment.php(64): Simplify_PaymentsApi::createObject(Object(Simplify_Payment), Object(Simplify_Authentication))
+#3 /home/windows1/public_html/@ps/wth/index.php(21): Simplify_Payment::createPayment(Array)
+#4 {main}
+  thrown in /home/windows1/public_html/@ps/wth/lib/Simplify/Http.php on line 154
+[07-Jun-2014 11:25:58 UTC] PHP Fatal error:  Uncaught exception 'Simplify_BadRequestException' with message 'Request data is invalid' in /home/windows1/public_html/@ps/wth/lib/Simplify/Http.php:154
+Stack trace:
+#0 /home/windows1/public_html/@ps/wth/lib/Simplify/PaymentsApi.php(215): Simplify_HTTP->apiRequest('https://sandbox...', 'POST', Object(Simplify_Authentication), '{"amount":"1000...')
+#1 /home/windows1/public_html/@ps/wth/lib/Simplify/PaymentsApi.php(51): Simplify_PaymentsApi->execute('create', Object(Simplify_Payment), Object(Simplify_Authentication))
+#2 /home/windows1/public_html/@ps/wth/lib/Simplify/Payment.php(64): Simplify_PaymentsApi::createObject(Object(Simplify_Payment), Object(Simplify_Authentication))
+#3 /home/windows1/public_html/@ps/wth/index.php(21): Simplify_Payment::createPayment(Array)
+#4 {main}
+  thrown in /home/windows1/public_html/@ps/wth/lib/Simplify/Http.php on line 154

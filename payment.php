@@ -41,7 +41,7 @@ include 'header.php';
         <div class="row centered" style="padding-bottom:20px;">
             <div id="hsocial" class="col-lg-8 col-lg-offset-2">
                 <div class="col-md-3">
-                    <a href="http://windowsvj.com/@ps/wth/modules/payment/index.php?amount=50&currency=USD">
+                    <a href="apis/mastercard/modules/payment/index.php?amount=25&currency=USD">
                         <button type="button" class="btn btn-theme btn-lg">MasterCard</button>
                     </a>
                 </div>
